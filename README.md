@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Bonjour, moi c'est Claude. !
 
-<!--
-**centredelasante-tech/centredelasante-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon espace GitHub dédié au développement de mes projets et à mes recherches en gestion de projet et en technologie.
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
+- 💼 Actuellement en train de développer un projet innovant dans le domaine du recyclage de métaux et sa valorisation.
+- 🧠 Intérêts : Gestion de projet, Intelligence Artificielle, Nouvelles technologies, réseaux connectée.
+- ⚙️ Outils favoris : GitHub, Assistants IA (Claude), Méthodes Agiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Mes Projets
+*Note : Les codes sources et documents sensibles de mes projets principaux sont conservés dans des dépôts privés sécurisés pour des raisons strictes de confidentialité.*
+  - 🌐 [Mon Site Internet](https://minovia.ca) - Ma vitrine professionnelle en ligne.
+
+## 📫 Me contacter
+- 📧 [info@minovia.ca](mailto:info@minovia.ca)
