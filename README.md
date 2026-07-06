@@ -1,10 +1,10 @@
-# 👋 Bonjour, moi c'est Claude. !
+# 👋 Bonjour, moi c'est Claude !
 
 Bienvenue sur mon espace GitHub dédié au développement de mes projets et à mes recherches en gestion de projet et en technologie.
 
 ## 🚀 À propos de moi
 - 💼 Actuellement en train de développer un projet innovant dans le domaine du recyclage de métaux et sa valorisation.
-- 🧠 Intérêts : Gestion de projet, Intelligence Artificielle, Nouvelles technologies, réseaux connectée.
+- 🧠 Intérêts : gestion de projet, intelligence Artificielle, nouvelles technologies, réseaux connectée.
 - ⚙️ Outils favoris : GitHub, Assistants IA (Claude), Méthodes Agiles.
 
 ## 📈 Mes Projets
